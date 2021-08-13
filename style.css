@@ -161,3 +161,18 @@ to {
       transform: rotate(360deg);
   }
 }
+
+.values{
+  margin-top: 30px;
+  font-size: 32px;
+
+}
+.valueText:nth-child(1){
+  color: #FF9933
+}
+.valueText:nth-child(2){
+  color: white
+}
+.valueText:nth-child(3){
+  color: #138808
+}
